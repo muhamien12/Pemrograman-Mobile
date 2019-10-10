@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Intent app</string>
+
+    <string name="move"> Move Activity</string>
+    <string name="move_data"> Move Activity With Data </string>
+    <string name="Call"> Panggilan </string>
+    <string name="ini_adalah_activity_2">ini adalah Activity 2</string>
+</resources>
